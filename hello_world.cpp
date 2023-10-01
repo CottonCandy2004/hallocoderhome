@@ -3,5 +3,4 @@
 using namespace std;
 int main(){
     cout<<"Hallo Coder_home"<<endl;
-    return 0;
 }
